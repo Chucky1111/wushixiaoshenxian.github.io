@@ -184,7 +184,7 @@ menu
 .nav__link:link,
 .nav__link:visited,
 .nav__link:active {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 .current .nav__link {
